@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+    color: #333;
+}
+
+.App{
+    max-width: 500px;
+    margin: 50px auto;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+a{
+    margin-left: 16px;
+    text-decoration: none;
+    color: #444;
+}
+
+.blog-preview{
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.blog-preview:hover{
+    box-shadow: 0 0 10px 10px rgb(235, 230, 230);
+}
+
+.create, input, label, textarea, select{
+    display: block;
+    margin:10px auto;
+    width: 100%;
+    max-width: 300px;
+}
+
+button{
+    margin-top: 30px;
+}

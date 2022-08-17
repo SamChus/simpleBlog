@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My stack",
+      "body": "As a web developer, I use JavaScript for web application and python for machine learning",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Great",
+      "body": "As we know from the chapter Data types, there are eight data types in JavaScript. Seven of them\nare called “primitive”, because their values contain only a single thing (be it a string or a number\nor whatever).\n",
+      "author": "Mavelous",
+      "id": 3
+    }
+  ]
+}
